@@ -1,0 +1,6 @@
+# sent_id = hin1
+# text = राम बाजार गया।
+1	राम	राम	PROPN	_	_	3	nsubj	_	_
+2	बाजार	बाजार	NOUN	_	_	3	obl	_	_
+3	गया	जा	VERB	_	_	0	root	_	_
+4	।	।	PUNCT	_	_	3	punct	_	_
